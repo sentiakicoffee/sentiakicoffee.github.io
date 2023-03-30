@@ -2395,9 +2395,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .video-right {
-  background: url(../img/video-bg.jpg) no-repeat center;
+  background: url(../img/6.jpg) no-repeat center;
   background-size: cover;
   height: 350px;
+  border-radius: 10px;
+}
+
+.video-Qris {
+  background: url(../img/Qris.jpeg) no-repeat center;
+  background-size: cover;
+  height: 360px;
   border-radius: 10px;
 }
 
